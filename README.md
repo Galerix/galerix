@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm David Galera 👋
 
-<!--
-**Galerix/galerix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend Web Developer** passionate about building interactive and responsive web applications. I specialize in creating sleek and user-friendly interfaces using modern technologies.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** TypeScript
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Tools & Utilities:** Prisma, PostgreSQL
+
+## 📫 Contact Me
+
+- **Email:** [dgalerarodriguez@gmail.com](dgalerarodriguez@gmail.com)
+- **LinkedIn:** [David Galera](https://es.linkedin.com/in/david-galera-rodriguez-47a65b1b6)
+
+Thanks for visiting my profile! 🚀
